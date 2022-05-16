@@ -1,6 +1,9 @@
 .navbar {
   background: #6a1b9a;
   height: 60px;
+  text-align: center;
+ 
+  
 }
 
 .navbar a {
