@@ -5,14 +5,12 @@ import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 
-export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('Home');
+export default function Mainsection() {
+  const [currentPage, setCurrentPage] = useState('About');
 
   // TODO: Add a comment describing the functionality of this method
   const renderPage = () => {
-    //  if (currentPage === 'resume') {
-    //    return <resume />;
-    //  }
+ 
     if (currentPage === 'About') {
       return <About />;
     }
