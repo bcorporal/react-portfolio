@@ -4,14 +4,18 @@ import About from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
+import Home from './pages/Home';
+
 import '../styles/Mainsection.css';
 
 export default function Mainsection() {
-  const [currentPage, setCurrentPage] = useState('About');
+  const [currentPage, setCurrentPage] = useState('Home');
 
   // TODO: Add a comment describing the functionality of this method
   const renderPage = () => {
- 
+    if (currentPage === 'Home') {
+      return <Home />;
+    }
     if (currentPage === 'About') {
       return <About />;
     }
