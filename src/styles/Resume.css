@@ -2,9 +2,22 @@
     background: #ffffff;
     padding: 70px;
     font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
   }
   
   body h2 {
     text-align: center;
   }
   
+  .container {
+    padding-top: 50px;
+    width: auto;
+    height: auto;
+    position: relative;
+  }
+img {
+   width: auto;
+  height: auto;
+}

@@ -14,6 +14,8 @@ export default function Contact() {
             </div>
             
             <p>You can always email me at <span><a href="mailto:bc@bcorporal.dev">bc@bcorporal.dev</a></span></p>
+            <p>View my <span><a href="https://www.linkedin.com/in/brandon-corporal-65742822b">LinkedIn</a></span></p>
+            <p>View my <span><a href="https://github.com/bcorporal">Github</a></span></p>
             <form method="post" data-form-title="CONTACT US">
               <input type="hidden" data-form-email="true"></input>
               <div class="form-group">

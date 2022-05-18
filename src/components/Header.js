@@ -11,7 +11,7 @@ const Header = () => {
   return (
     <header className="bg-white text-dark mb-1 py-3 flex-row align-center">
       <div className="container flex-row justify-space-between-lg justify-center align-center">
-        <h1 className="m-0">Brandon Corporal</h1>
+        <h1 className="bc">Brandon Corporal</h1>
         <p className="m-0">React Portfolio</p>
       </div>
     </header>

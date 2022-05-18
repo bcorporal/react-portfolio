@@ -9,6 +9,7 @@ import '../../styles/portfolio.css';
 
 export default function Portfolio() {
   return (
+    <div class="portfolio">
     <div class="container">
     <div class="row">
       <div class="col-xs-12 col-md-12 col-lg-12">
@@ -20,7 +21,7 @@ export default function Portfolio() {
           </div>
           <div class="card-footer">
           <a href="https://github.com/bcorporal/Fitness-Pal" >GITHUB LINK</a>
-
+          </div>
           </div>
           </div>
           </div>
