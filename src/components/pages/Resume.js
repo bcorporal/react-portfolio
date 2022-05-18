@@ -1,7 +1,9 @@
 import React from 'react';
+import '../../styles/Resume.css';
 
 export default function Resume() {
   return (
+    <section id="Resume">
     <div>
       <h1>Resume</h1>
       <p>
@@ -20,5 +22,6 @@ export default function Resume() {
         est ligula suscipit velit, sed bibendum turpis dui in sapien.
       </p>
     </div>
+    </section>
   );
 }

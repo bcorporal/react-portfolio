@@ -1,15 +1,12 @@
 .navbar {
   background: #6a1b9a;
-  height: 60px;
-  text-align: center;
- 
-  
+flex-direction: row;
+  text-align: center;  
 }
 
-.navbar a {
-  color: white;
+.nav-item {
+  color: rgb(241, 75, 75);
   font-size: 1.3rem;
   text-decoration: none;
-  margin: 5px;
-  line-height: 3;
+  justify-content: center;
 }

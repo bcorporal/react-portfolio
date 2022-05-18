@@ -7,6 +7,7 @@ import '../styles/Navbar.css';
 function Navbar({ currentPage, handlePageChange }) {
   // TODO: Add a style attribute to `nav`
   return (
+    <nav className="navbar navbar-expand-lg bg-dark">
     <ul className="nav nav-bar">
     <li className='nav-item'>
     <a href="#Home"
@@ -44,6 +45,7 @@ function Navbar({ currentPage, handlePageChange }) {
           </a>
           </li>
           </ul>
+          </nav>
   );
 }
 

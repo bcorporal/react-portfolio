@@ -1,0 +1,15 @@
+#portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin-bottom: 15px;
+    background-color: rgb(248, 255, 255);
+}
+
+.container {
+    padding-top: 50px;
+    width: auto;
+    height: auto;
+    position: relative;
+}

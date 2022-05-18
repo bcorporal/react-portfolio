@@ -1,7 +1,20 @@
 import React from "react";
-import Mainsection from "./components/Mainsection";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+
+import PortfolioContainer from "./components/PortfolioContainer";
 
 
-const App = () => <Mainsection />;
+// const App = () => <PortfolioContainer />;
+
+  function App() {
+    return (
+      <div>
+       <Header />
+        <PortfolioContainer />
+        <Footer />
+     </div>
+   );
+   }
 
 export default App;
