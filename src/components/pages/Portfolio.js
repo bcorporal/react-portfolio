@@ -9,9 +9,11 @@ import '../../styles/portfolio.css';
 
 export default function Portfolio() {
   return (
+    
     <div class="portfolio">
     <div class="container">
     <div class="row">
+    <h1>Portfolio</h1>
       <div class="col-xs-12 col-md-12 col-lg-12">
         <div class="card">
         <img src={fitness} className="fitness" alt ="Screenshot of fitness app" />
