@@ -1,10 +1,13 @@
-#contact {
+form {
     background: #ffffff;
     padding: 70px;
     font-size: 20px;
-  }
-  
-  body h2 {
     text-align: center;
   }
   
+  #message {
+    background: #ffffff;
+    padding: 30px;
+    font-size: 20px;
+    
+  }
