@@ -1,12 +1,18 @@
 .navbar {
   background: #6a1b9a;
 flex-direction: row;
-  text-align: center;  
+  text-align: center; 
+
 }
 
 .nav-item {
-  color: rgb(241, 75, 75);
-  font-size: 1.3rem;
-  text-decoration: none;
+  font-size: 2rem;
+  text-decoration: none; 
   justify-content: center;
+  text-align: center;
+  padding: 15px;
+}
+
+a.nav-link {
+  color: aliceblue;
 }

@@ -1,16 +1,14 @@
 header {
-  background: #c6c6c6;
-  height: 250px;
+  background: #000000;
 }
 
-header h1 {
-  margin: 0;
-  padding-top: 0px;
+header h4 {
+  margin: auto;
   text-align: center;
-  color: rgb(0, 0, 0);
-  font-size: 3rem;
+  color: rgb(255, 13, 13);
+  font-size: 2rem;
 }
 
 .bc {
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

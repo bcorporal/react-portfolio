@@ -7,8 +7,8 @@ import '../styles/Navbar.css';
 function Navbar({ currentPage, handlePageChange }) {
   // TODO: Add a style attribute to `nav`
   return (
-    <nav className="navbar navbar-expand-lg bg-dark">
-    <ul className="nav nav-bar">
+    <nav className="navbar navbar-expand-sm bg-black justify-center align-center">
+    <ul className="navbar-nav">
     <li className='nav-item'>
     <a href="#Home"
     onClick={() => handlePageChange('Home')}

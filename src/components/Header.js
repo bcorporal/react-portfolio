@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Header.css';
-
+import Jumbotron from "./bc3.png"
 
 // Here we import the Header.css file to grant access to some additional classNames
 
@@ -9,10 +9,12 @@ import '../styles/Header.css';
 
 const Header = () => {
   return (
-    <header className="bg-white text-dark mb-1 py-3 flex-row align-center">
+    <header className="bg-black text-dark mb-0 py-3 flex-row align-center">
       <div className="container flex-row justify-space-between-lg justify-center align-center">
-        <h1 className="bc">Brandon Corporal</h1>
-        <p className="m-0">React Portfolio</p>
+      <img style={{height:'auto',width:'100%'}} src={ Jumbotron } alt= "bc" />
+      <h4>Brandon Corporal</h4>
+       
+        
       </div>
     </header>
   );
