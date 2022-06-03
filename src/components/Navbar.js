@@ -30,7 +30,7 @@ function Navbar({ currentPage, handlePageChange }) {
       </a></li>
 
       <li className='nav-item'>
-      <a href="#resume"
+      <a href="https://drive.google.com/file/d/1qoqjun7qLv0rAZCIdlK8c5tpb-WSZggE/view" target="_blank" rel="noopener noreferrer"
       onClick={() => handlePageChange('Resume')}
       className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
           >

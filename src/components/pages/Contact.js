@@ -10,7 +10,7 @@ function ContactForm() {
   return (
     <form onSubmit={handleSubmit}>
     <h1 htmlFor="email">Contact Me</h1>
-    <h5>Please enter details below</h5>
+    <h5>Leave a message, my email is in the footer.</h5>
     <h3>Name</h3>
     <input
       id="nameInput"

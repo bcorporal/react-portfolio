@@ -1,5 +1,5 @@
 #Home {
-  display: none;
+
     background: black;
     padding: 70px;
     font-size: 20px;
@@ -16,7 +16,7 @@
   }
 
   p {
-    color: white;
+    color: black;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
