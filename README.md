@@ -1,7 +1,8 @@
 #  React Portfolio
 
 
-![React App](https://user-images.githubusercontent.com/97717660/169141472-ff5ced1c-50f6-4ea7-b025-7f1d1e6469e7.gif)
+![BC](https://user-images.githubusercontent.com/97717660/172030630-4ef63ead-b19d-4174-a5dc-db96f832743c.gif)
+
 
 
 Deployed https://bcorporal.github.io/react-portfolio/
@@ -19,6 +20,6 @@ My developer portfolio made with react!
 
   ## Questions
   Any additional questions please reach out at https://github.com/bcorporal
-  [Click here to Email me](mailto:bcorporal@gmail.com)
+  [Click here to Email me](mailto:bc@bcorporal.dev)
 
 
