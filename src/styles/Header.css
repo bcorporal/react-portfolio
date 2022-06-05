@@ -5,13 +5,18 @@ header {
 header h4 {
   margin: auto;
   text-align: center;
-  color: rgb(255, 0, 0);
-  font-size: 2rem;
+  color: white;
+  font-size: 75px;
+  font-family: 'Koulen';
 }
 
 .bc {
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+header p {
+  color: white;
+  font-size: 25px;
+}
 
 

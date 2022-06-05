@@ -12,7 +12,9 @@ const Header = () => {
     <header className="bg-black text-dark mb-0 py-3 flex-row align-center">
       <div className="container flex-row justify-space-between-lg justify-center align-center">
       <img style={{height:'auto',width:'100%'}} src={ Jumbotron } alt= "bc" />
-      <h4>Brandon Corporal<br></br>Full Stack Developer</h4>
+      <h4>Brandon Corporal
+      
+      <p>Full Stack Developer</p> </h4>
        
         
       </div>
