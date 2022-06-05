@@ -134,7 +134,7 @@ export default function Portfolio() {
       <img src={tracker} className="employee" alt ="Screenshot of fitness app" />
         
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title">Employee tracker</h5>
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           <a href="https://github.com/bcorporal/Employee-Tracker" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
         </div>
