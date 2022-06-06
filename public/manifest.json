@@ -4,8 +4,8 @@
   "theme_color": "#000000",
   "background_color": "#000000",
   "display": "standalone",
-  "scope": "https://bcorporal.github.io/react-portfolio",
-  "start_url": "https://bcorporal.github.io/react-portfolio",
+  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "maskable.png",
