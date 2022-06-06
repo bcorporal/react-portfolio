@@ -12,9 +12,20 @@ ReactDOM.render(
     </React.StrictMode>,
     document.getElementById('root')
   );
-  reportWebVitals();
+
+
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('/sw.js').then(function(registration) {
+      console.log('ServiceWorker registration successful with scope:',  registration.scope);
+    }).catch(function(error) {
+      console.log('ServiceWorker registration failed:', error);
+    });
+  }
 
     // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://cra.link/PWA
 serviceWorkerRegistration.register();
+
+
+reportWebVitals();
