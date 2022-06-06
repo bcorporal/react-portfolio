@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Header.css';
-import Jumbotron from "./MOSH6.gif"
+import Jumbotron from "./bc3.png"
 
 // Here we import the Header.css file to grant access to some additional classNames
 
