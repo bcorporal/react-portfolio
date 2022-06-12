@@ -2,7 +2,7 @@ import React from 'react';
 import fitness from '../fitness.gif'
 import paw from '../pp.gif'
 import nba from '../nba.gif'
-import brain from '../brain.gif'
+import brain2 from '../brain2.gif'
 import password from '../password.gif'
 import jate from '../jate.gif'
 import social from '../social.gif'
@@ -44,7 +44,7 @@ export default function Portfolio() {
 
       <div class="col-md-4">
       <div class="card">
-      <img src={brain} className="fitness" alt ="Screenshot of fitness app" />
+      <img src={brain2} className="fitness" alt ="Screenshot of fitness app" />
         
         <div class="card-body">
           <h5 class="card-title">Brain Games</h5>

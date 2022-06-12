@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  "homepage": "https://bcorporal.github.io/react-portfolio/",
   "dependencies": {
     "@formspree/react": "^2.2.5",
     "@testing-library/jest-dom": "^5.11.4",
