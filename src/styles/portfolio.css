@@ -1,3 +1,10 @@
+h7 {
+    text-decoration: underline;
+   
+    
+    }
+
+
 .container {
     box-sizing: border-box;
     flex-direction: row;
@@ -18,3 +25,9 @@ margin-left: auto;
 margin-right: auto;
 width: 50%; */
 }
+
+ul {
+    text-align: auto;
+    font-style: italic;
+}
+

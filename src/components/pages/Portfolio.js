@@ -22,6 +22,10 @@ export default function Portfolio() {
 					<div class="card-body">
 						<h5 class="card-title">Fitness Pal</h5>
 						<p class="card-text">Fitness Tracker app with the ability to create a login/profile for logging workouts on the go.</p>
+            <h7>Technologies used:</h7>
+          <ol>
+          <ul>Handlebars, MySQL, Express.js, Bulma, Node.js, Sequelize</ul>
+          </ol>
 						<a href="https://github.com/bcorporal/Fitness-Pal" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
             <a href="https://pacific-wave-33969.herokuapp.com/login" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm btn-block m-0">Demo</a>
 					</div>
@@ -35,6 +39,10 @@ export default function Portfolio() {
         <div class="card-body">
           <h5 class="card-title">Paw Patroller</h5>
           <p class="card-text">Dog friendly business finder. Search by location, Create a user profile to save your favorite businesses.</p>
+          <h7>Technologies used</h7>
+          <ol>
+          <ul>React.js, GraphQL, Apollo, Bootstrap, Yelp API</ul>
+          </ol>
           <a href="https://github.com/bcorporal/paw-patroller" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
           <a href="https://stormy-gorge-40792.herokuapp.com/" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm btn-block m-0">Demo</a>
         </div>
@@ -48,7 +56,12 @@ export default function Portfolio() {
         
         <div class="card-body">
           <h5 class="card-title">Brain Games</h5>
-          <p class="card-text">Timed Quiz application where you have 30 seconds to answer trick questions. </p>
+          <p class="card-text">Timed Quiz application where you have 30 seconds to answer trick questions. Incorrect answers takes off 5 seconds from the clock. </p>
+          <h7>Technologies used:</h7>
+          <ol>
+          <ul>Javascript, Html, Css</ul>
+          </ol>
+
           <a href="https://github.com/bcorporal/brain-games" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
           <a href="https://bcorporal.github.io/brain-games/" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm btn-block m-0">Demo</a>
         </div>
@@ -62,7 +75,11 @@ export default function Portfolio() {
         
         <div class="card-body">
           <h5 class="card-title">Password Generator</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <p class="card-text">Need to generate a random password? I created this simple application that allows you to generate a password based on the criteria selected by the user.</p>
+          <h7>Technologies used</h7>
+          <ol>
+          <ul>Javascript, Html, Css</ul>
+          </ol>
           <a href="https://github.com/bcorporal/password-generator" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
           <a href="https://bcorporal.github.io/password-generator/" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm btn-block m-0">Demo</a>
         </div>
@@ -77,6 +94,10 @@ export default function Portfolio() {
         <div class="card-body">
           <h5 class="card-title">NBA Wizard</h5>
           <p class="card-text">NBA game/statistic tracking application that pulls stats and latest games for your favorite NBA team.</p>
+          <h7>Technologies used:</h7>
+          <ol>
+          <ul>Javascript, Html, Css, Bulma, 3rd party Api.</ul>
+          </ol>
           <a href="https://github.com/bcorporal/nba-wizard" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
           <a href="https://bcorporal.github.io/nba-wizard/" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm btn-block m-0">Demo</a>
         </div>
@@ -92,6 +113,10 @@ export default function Portfolio() {
         <div class="card-body">
           <h5 class="card-title">Text Editor</h5>
           <p class="card-text">Creates notes or code snippets with or without an internet connection for later use. Meets PWA criteria.</p>
+          <h7>Technologies used</h7>
+          <ol>
+          <ul>Javascript, Node.js, Express.js, Webpack, Html, Css, PWA</ul>
+          </ol>
           <a href="https://github.com/bcorporal/text-editor" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
           <a href="https://pure-dusk-36118.herokuapp.com/" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm btn-block m-0">Demo</a>
         </div>
@@ -107,6 +132,10 @@ export default function Portfolio() {
         <div class="card-body">
           <h5 class="card-title">Social Network API</h5>
           <p class="card-text">API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Full CRUD</p>
+          <h7>Technologies used</h7>
+          <ol>
+          <ul>Javascript, Node.js, Express.js, MongoDb, Mongoose, NoSQL, Insomnia</ul>
+          </ol>
           <a href="https://github.com/bcorporal/social-network-api" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
         </div>
       </div>
@@ -123,6 +152,10 @@ export default function Portfolio() {
           <h5 class="card-title">Note Buddy</h5>
           <p class="card-text">About
           Note taking application that allows you to keep track of tasks or organize thoughts on the go. You can save/delete nots as well.</p>
+          <h7>Technologies used</h7>
+          <ol>
+          <ul>Html, Css, Javascript, Node.js, Express.js, UUID, Heroku </ul>
+          </ol>
           <a href="https://github.com/bcorporal/note-buddy" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
           <a href="https://fierce-dawn-03721.herokuapp.com/" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm btn-block m-0">Demo</a>
         </div>
@@ -136,6 +169,10 @@ export default function Portfolio() {
         <div class="card-body">
           <h5 class="card-title">Employee tracker</h5>
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <h7>Technologies used</h7>
+          <ol>
+          <ul>Javascript, MySQL, Node.js, Inquirer.js</ul>
+          </ol>
           <a href="https://github.com/bcorporal/Employee-Tracker" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-block m-0">Repo</a>
         </div>
       </div>
