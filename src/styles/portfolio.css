@@ -1,15 +1,30 @@
 h7 {
     text-decoration: underline;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin: auto;
    
-    
-    }
+}
 
+h8 {
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    padding-bottom: 1rem;
+    font-size: 25px;
+    font-family: 'Koulen';
+}
 
 .container {
+    width: 100%;
     box-sizing: border-box;
     flex-direction: row;
 
 }
+
 .card-text {
     color: black;
 }
@@ -20,14 +35,38 @@ h7 {
 }
 
 img {
-    /* display: block;
-margin-left: auto;
-margin-right: auto;
-width: 50%; */
+    margin: .5rem; 
 }
 
-ul {
-    text-align: auto;
+ol {
+    display: flex;
+
     font-style: italic;
 }
 
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.repo:hover {
+    transform: scale(1.1);
+  }
+
+.demo:hover {
+    transform: scale(1.1);
+}
+
+.repo {
+    justify-content: center;
+    margin-right: 5px;
+}
+
+.demo {
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.pjheader {
+    color: black;
+}

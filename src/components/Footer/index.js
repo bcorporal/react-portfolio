@@ -17,7 +17,7 @@ const Footer = () => {
           </span>{' '}
           
         </h4>
-        <p> <span><a href="mailto:bc@bcorporal.dev">bc@bcorporal.dev</a></span></p>
+        <p> <span><a href="mailto:bc@bcorporal.dev">bc@bcorporal.dev 2022</a></span></p>
         <p><span><a href="https://www.linkedin.com/in/brandon-corporal-65742822b">LinkedIn</a></span></p>
             <p><span><a href="https://github.com/bcorporal">Github</a></span></p>
       </div>

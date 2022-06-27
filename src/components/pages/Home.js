@@ -5,10 +5,11 @@ export default function Home() {
   return (
     <section id="Home">
     <div>
-      <h1> </h1>
-      
+    <div class='hero-container'>
+    </div>
     </div>
     </section>
+    
   );
  
 }

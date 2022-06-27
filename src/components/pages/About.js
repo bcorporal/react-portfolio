@@ -6,6 +6,9 @@ export default function About() {
   return (
     <div class="container">
     <div class="row mb-5 mx-auto">
+    <div class="pjheader">
+    <h8>ABOUT</h8>
+    </div>
       <div class="col-md-4 p-1">
       <div class= "">
       <div class="row mb-5 mx-auto">

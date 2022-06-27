@@ -9,6 +9,7 @@ function Navbar({ currentPage, handlePageChange }) {
   return (
     <nav className="navbar navbar-expand-sm bg-black justify-center align-center">
     <ul className="navbar-nav">
+    
     <li className='nav-item'>
     <a href="#Home"
     onClick={() => handlePageChange('Home')}
@@ -25,25 +26,20 @@ function Navbar({ currentPage, handlePageChange }) {
       <a href="#portfolio"
       onClick={() => handlePageChange('Portfolio')}
       className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
-      >
-        Projects
-      </a></li>
+      >Projects</a></li>
 
       <li className='nav-item'>
       <a href="https://drive.google.com/file/d/1qoqjun7qLv0rAZCIdlK8c5tpb-WSZggE/view" target="_blank" rel="noopener noreferrer"
       onClick={() => handlePageChange('Resume')}
       className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
-          >
-            Resume
-          </a></li>
+          >Resume</a></li>
+
       <li className='nav-item'>
       <a href="#contact"
       onClick={() => handlePageChange('Contact')}
             className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
-          >
-            Contact
-          </a>
-          </li>
+          >Contact</a></li>
+          
           </ul>
           </nav>
   );
