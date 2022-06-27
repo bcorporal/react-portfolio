@@ -35,6 +35,8 @@ h8 {
 }
 
 img {
+    width: auto;
+    height: auto;
     margin: .5rem; 
 }
 
