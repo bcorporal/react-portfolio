@@ -29,7 +29,7 @@ function Navbar({ currentPage, handlePageChange }) {
       >Projects</a></li>
 
       <li className='nav-item'>
-      <a href="https://drive.google.com/file/d/1qoqjun7qLv0rAZCIdlK8c5tpb-WSZggE/view" target="_blank" rel="noopener noreferrer"
+      <a href="https://drive.google.com/file/d/1gqpHcZO9dtbqnC30s047sQl_A817RJp0/view?usp=sharing" target="_blank" rel="noopener noreferrer"
       onClick={() => handlePageChange('Resume')}
       className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
           >Resume</a></li>

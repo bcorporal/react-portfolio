@@ -6,6 +6,7 @@ export default function Home() {
     <section id="Home">
     <div>
     <div class='hero-container'>
+    
     </div>
     </div>
     </section>

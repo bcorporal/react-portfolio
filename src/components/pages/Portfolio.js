@@ -16,14 +16,15 @@ export default function Portfolio() {
     <div class="pjheader">
     <h8>PROJECTS</h8>
     </div>
+ 
+   
       <div class="row mb-5 mx-auto">
         <div class="col-md-4">
           <div class="card">
             <img
               src={fitness}
               className="fitness"
-              alt="Screenshot of fitness app"
-            />
+              alt="Screenshot of fitness app"/>
             <div class="card-body">
               <h5 class="card-title">Fitness Pal</h5>
               <p class="card-text">

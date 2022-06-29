@@ -12,9 +12,7 @@ import PortfolioContainer from "./components/PortfolioContainer";
     return (
       <main>
        <Header />
-        <PortfolioContainer />
-
-       
+        <PortfolioContainer /> 
      </main>
    );
    }
