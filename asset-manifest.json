@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.45173cd8.chunk.css",
-    "main.js": "/static/js/main.04073179.chunk.js",
-    "main.js.map": "/static/js/main.04073179.chunk.js.map",
+    "main.js": "/static/js/main.869204f5.chunk.js",
+    "main.js.map": "/static/js/main.869204f5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f7a2248c.js",
     "runtime-main.js.map": "/static/js/runtime-main.f7a2248c.js.map",
     "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
@@ -27,6 +27,7 @@
     "static/media/np2.d7daecc8.jpg": "/static/media/np2.d7daecc8.jpg",
     "static/media/password.fc83433c.gif": "/static/media/password.fc83433c.gif",
     "static/media/pp.b91ccb6d.gif": "/static/media/pp.b91ccb6d.gif",
+    "static/media/remix.6ede3dd0.gif": "/static/media/remix.6ede3dd0.gif",
     "static/media/social.37db514e.gif": "/static/media/social.37db514e.gif",
     "static/media/swecom.ada869ed.gif": "/static/media/swecom.ada869ed.gif",
     "static/media/tracker.9d6c8f98.gif": "/static/media/tracker.9d6c8f98.gif"
@@ -36,6 +37,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.770f485b.chunk.js",
     "static/css/main.45173cd8.chunk.css",
-    "static/js/main.04073179.chunk.js"
+    "static/js/main.869204f5.chunk.js"
   ]
 }
